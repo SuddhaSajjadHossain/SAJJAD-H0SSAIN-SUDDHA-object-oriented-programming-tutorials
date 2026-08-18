@@ -8,11 +8,11 @@
 
 ### Student Details
 
-- **Full Name:** [Miah Masum]
-- **Student ID:** [202505010353]
-- **Class Code:** [BIT1123]
-- **Program:** [BCSSE]
-- **NRIC/Passport:** [A16834969]
+- **Full Name:** [Suddha Sajjad Hossain]
+- **Student ID:** [202505010128]
+- **Class Code:** [202605F0782]
+- **Program:** [BIT]
+- **NRIC/Passport:** [A22510045]
 
 ---
 
